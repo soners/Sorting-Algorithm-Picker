@@ -1,0 +1,2 @@
+model_checkpoint_path: "sorting_algorithm_chooser.model"
+all_model_checkpoint_paths: "sorting_algorithm_chooser.model"
