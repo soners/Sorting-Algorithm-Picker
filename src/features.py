@@ -1,6 +1,6 @@
 import numpy as np
-from auxiliary_methods import *
-from sort import *
+from src.auxiliary_methods import *
+from src.sort import *
 
 
 # param array : np.array
